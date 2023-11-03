@@ -1,2 +1,2 @@
 # Conflict-Resolution
-Created in github for class
+- welcome to the conflict resolution repo that I created on github.com
